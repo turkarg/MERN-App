@@ -1,0 +1,9 @@
+{
+    "env":{
+        "DB_USER":"turkargovind",
+        "DB_PASSWORD":"THZbUEGpiZMRNj4R",
+        "DB_NAME":"places_test",
+        "GOOGLE_API_KEY":"...",
+        "JWT_KEY":"sayegfyuaesgfyuagdwq4q32e"
+    }
+}
